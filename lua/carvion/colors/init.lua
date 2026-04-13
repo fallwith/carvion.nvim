@@ -43,16 +43,16 @@ local ret = {
     },
 
     blue = { base = "#6F8FB0" },
-    green = { base = "#8FD8A3" },
+    green = { base = "#86CFA0" },
     purple = { base = "#A18BD1" },
     neutral = { base = "#8FA1B3" },
   },
 
   diagnostics = {
-    error = { fg = "#E05A47", bg = "#2A1412" },
-    warn = { fg = "#D98C3A", bg = "#2A2012" },
-    info = { fg = "#6F8FB0", bg = "#121A2A" },
-    hint = { fg = "#8FD8A3", bg = "#121A2A" },
+    error = { fg = "#E05A47", bg = "#240A06" },
+    warn = { fg = "#D98C3A", bg = "#211406" },
+    info = { fg = "#6F8FB0", bg = "#0E141A" },
+    hint = { fg = "#86CFA0", bg = "#0D2614" },
   },
 
   none = "none",
